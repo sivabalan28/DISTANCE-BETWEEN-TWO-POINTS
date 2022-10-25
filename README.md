@@ -3,12 +3,19 @@
 ## AIM:
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
-### Step 1: import math module 
-### Step 2: get input from the user
-### Step 3: apply the distance formula
-### Step 4: print output
+### Step 1: 
+Import math module 
+### Step 2: 
+Get input from the user
+### Step 3: 
+Apply the distance formula
+### Step 4: 
+Print output
 ### PROGRAM:
 ```python
+#Program to find the distance between 2 points
+#Developed by: Sivabalan S
+#Register number:22004401
 import math 
 l1=[4,2]
 l2=[10,6]
